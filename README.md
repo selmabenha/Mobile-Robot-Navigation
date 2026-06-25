@@ -48,7 +48,7 @@ Main techniques:
 * Contour extraction
 * Minimum-area bounding rectangles
 
-Environment vs. Resulting Obstacles:
+#### Environment vs. Resulting Obstacles:
 
 <img src="Figures/environement.JPG" width="500">          <img src="Figures/obstacles.JPG" width="500">
 
