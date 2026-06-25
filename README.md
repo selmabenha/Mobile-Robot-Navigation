@@ -48,6 +48,14 @@ Main techniques:
 * Contour extraction
 * Minimum-area bounding rectangles
 
+Environment:
+
+![Environment](Figures/environement.JPG)
+
+Resulting obstacles:
+
+![Result](Figures/obstacles.JPG)
+
 ---
 
 ### 2. Global Navigation
@@ -64,6 +72,8 @@ Before planning:
 #### Path Planning
 
 A visibility graph is built using Pyvisgraph.
+
+![Visibility Graph](Figures/Global_Nav/visibility_graph.png)
 
 The shortest path is then computed using Dijkstra's algorithm.
 
