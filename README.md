@@ -48,17 +48,9 @@ Main techniques:
 * Contour extraction
 * Minimum-area bounding rectangles
 
-Environment:
-
-![Environment](Figures/environement.JPG)
-
-
-Resulting obstacles:
-
-![Result](Figures/obstacles.JPG)
-
 Environment vs. Resulting Obstacles:
-<img src="Figures/environement.JPG" width="300"> <img src="Figures/obstacles.JPG" width="300">
+
+<img src="Figures/environement.JPG" width="500">          <img src="Figures/obstacles.JPG" width="500">
 
 
 ---
@@ -78,7 +70,7 @@ Before planning:
 
 A visibility graph is built using Pyvisgraph.
 
-![Visibility Graph](Figures/Global_Nav/visibility_graph.jpg)
+<img src="Figures/Global_Nav/visibility_graph.jpg" width="500">
 
 The shortest path is then computed using Dijkstra's algorithm.
 
