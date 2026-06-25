@@ -1,0 +1,549 @@
+angle after predict: 0.0
+position predict: 0.0 mm, 0.0 mm, 0.0 rad
+position predict: 0 et 0
+angle after predict: 0.0
+angle after encoder update: 0.0
+Rotation Angle: 36 degrees
+Center: x=168, y=403
+Rotation Angle: 36 degrees
+Width: 73, Height: 82
+Center in cm: x=26, y=54
+angle after cam update: 0.31469252154015914
+position predict: 130.02172767812186 mm, 270.0459004558637 mm, 0.31469252154015914 rad
+position predict: 83 et 198
+angle after predict: 0.3146925498969213
+angle after encoder update: 0.314104064973915
+position predict: 130.47809209943878 mm, 270.17571083881046 mm, 0.314104064973915 rad
+position predict: 84 et 198
+angle after predict: 0.31354401633623885
+angle after encoder update: 0.31410576400935686
+position predict: 131.62517713529274 mm, 270.5335454493274 mm, 0.31410576400935686 rad
+position predict: 85 et 199
+angle after predict: 0.3138669787973347
+angle after encoder update: 0.31681022737722137
+position predict: 133.0023521442113 mm, 270.975716499222 mm, 0.31681022737722137 rad
+position predict: 85 et 199
+angle after predict: 0.3177682336259
+angle after encoder update: 0.3171042974228549
+Rotation Angle: 37 degrees
+Center: x=170, y=401
+Rotation Angle: 37 degrees
+Width: 73, Height: 81
+Center in cm: x=26, y=54
+angle after cam update: 11.423406935766872
+position predict: 174.34798097716774 mm, 368.9646588098389 mm, 11.423406935766872 rad
+position predict: 112 et 271
+angle after predict: -1.1422269776236647
+angle after encoder update: -1.1431906932834364
+Rotation Angle: 36 degrees
+Center: x=171, y=400
+Rotation Angle: 36 degrees
+Width: 73, Height: 81
+Center in cm: x=26, y=54
+angle after cam update: 6.375856931124115
+position predict: 197.5633871932234 mm, 417.8752025199049 mm, 6.375856931124115 rad
+position predict: 127 et 307
+angle after predict: 0.09291632655249771
+angle after encoder update: 0.08544925134364705
+position predict: 199.48425683069257 mm, 417.9813350479655 mm, 0.08544925134364705 rad
+position predict: 128 et 307
+angle after predict: 0.08303293932306177
+angle after encoder update: 0.08574427214169808
+Rotation Angle: 37 degrees
+Center: x=172, y=398
+Rotation Angle: 37 degrees
+Width: 73, Height: 81
+Center in cm: x=26, y=54
+angle after cam update: 7.383607924661497
+position predict: 214.19490540794587 mm, 461.9820590944352 mm, 7.383607924661497 rad
+position predict: 138 et 340
+angle after predict: 1.0994286353199154
+angle after encoder update: 1.1003573363257657
+Rotation Angle: 34 degrees
+Center: x=174, y=397
+Rotation Angle: 34 degrees
+Width: 73, Height: 81
+Center in cm: x=26, y=53
+angle after cam update: 3.2264067012598105
+position predict: 219.05885618617216 mm, 480.81666894096963 mm, 3.2264067012598105 rad
+position predict: 141 et 354
+angle after predict: -3.0569889709226805
+angle after encoder update: -3.0579064643487244
+position predict: 217.05522630417445 mm, 480.6760138935902 mm, -3.0579064643487244 rad
+position predict: 140 et 353
+angle after predict: -3.058294277652265
+angle after encoder update: -3.0580979065929057
+position predict: 214.89765246000673 mm, 480.51122468944436 mm, -3.0580979065929057 rad
+position predict: 138 et 353
+angle after predict: -3.058296796627933
+angle after encoder update: -3.0571415679953473
+Rotation Angle: 36 degrees
+Center: x=176, y=392
+Rotation Angle: 36 degrees
+Width: 73, Height: 81
+Center in cm: x=27, y=53
+angle after cam update: -4.329203157973691
+position predict: 221.08744854694933 mm, 483.2855649017596 mm, -4.329203157973691 rad
+position predict: 142 et 355
+angle after predict: 1.954258103111604
+angle after encoder update: 1.953107300039843
+position predict: 220.24737557750976 mm, 485.30771728061853 mm, 1.953107300039843 rad
+position predict: 142 et 357
+angle after predict: 1.9530088221348523
+angle after encoder update: 1.952949424590357
+Rotation Angle: 36 degrees
+Center: x=178, y=390
+Rotation Angle: 36 degrees
+Width: 73, Height: 80
+Center in cm: x=27, y=53
+angle after cam update: -1.2643579673581975
+position predict: 233.92956627369253 mm, 498.26883902998804 mm, -1.2643579673581975 rad
+position predict: 151 et 366
+angle after predict: -1.2644441532385695
+angle after encoder update: -1.2640776315587992
+Rotation Angle: 34 degrees
+Center: x=179, y=389
+Rotation Angle: 34 degrees
+Width: 73, Height: 79
+Center in cm: x=27, y=54
+angle after cam update: -2.4794000036869663
+position predict: 236.27791652224715 mm, 498.3503569444116 mm, -2.4794000036869663 rad
+position predict: 152 et 366
+angle after predict: -2.4793556815785784
+angle after encoder update: -2.4790461140871707
+Rotation Angle: 34 degrees
+Center: x=180, y=388
+Rotation Angle: 34 degrees
+Width: 73, Height: 80
+Center in cm: x=27, y=53
+angle after cam update: -3.2186769352296443
+position predict: 234.2470997391523 mm, 499.7931011155865 mm, -3.2186769352296443 rad
+position predict: 151 et 368
+angle after predict: 3.0646661501175148
+angle after encoder update: 3.0647941058480597
+position predict: 231.60261624572945 mm, 499.9908811296006 mm, 3.0647941058480597 rad
+position predict: 149 et 368
+angle after predict: 3.065021271964836
+angle after encoder update: 3.064874712104751
+position predict: 229.16175216422917 mm, 500.1781748371618 mm, 3.064874712104751 rad
+position predict: 148 et 368
+angle after predict: 3.0650680829530605
+angle after encoder update: 3.064587724789055
+position predict: 226.4635857701283 mm, 500.38515835199905 mm, 3.064587724789055 rad
+position predict: 146 et 368
+angle after predict: 3.0646136666212422
+angle after encoder update: 3.0642497711614505
+position predict: 223.9562542395592 mm, 500.58098605196614 mm, 3.0642497711614505 rad
+position predict: 144 et 368
+angle after predict: 3.064161666643928
+angle after encoder update: 3.0659928185728407
+Rotation Angle: 37 degrees
+Center: x=185, y=382
+Rotation Angle: 37 degrees
+Width: 73, Height: 80
+Center in cm: x=28, y=52
+angle after cam update: 1.8722880344152881
+position predict: 221.2981380761701 mm, 516.4351024866984 mm, 1.8722880344152881 rad
+position predict: 142 et 380
+angle after predict: 1.8727893535433573
+angle after encoder update: 1.8728084078291196
+position predict: 220.5300628390498 mm, 518.9071997274968 mm, 1.8728084078291196 rad
+position predict: 142 et 382
+angle after predict: 1.8734333719969207
+angle after encoder update: 1.8727894069126152
+Rotation Angle: 33 degrees
+Center: x=185, y=383
+Rotation Angle: 33 degrees
+Width: 73, Height: 71
+Center in cm: x=28, y=59
+angle after cam update: -1.3224794457426015
+position predict: 232.75085860923906 mm, 560.8433256943621 mm, -1.3224794457426015 rad
+position predict: 150 et 412
+angle after predict: -1.3222266811722527
+angle after encoder update: -1.3226595835411403
+position predict: 233.3672121250695 mm, 558.4677395851372 mm, -1.3226595835411403 rad
+position predict: 150 et 411
+angle after predict: -1.3225813638849129
+angle after encoder update: -1.3219788003342983
+position predict: 233.94233143332022 mm, 556.2632373612007 mm, -1.3219788003342983 rad
+position predict: 151 et 409
+angle after predict: -1.3216980455333194
+angle after encoder update: -1.3215458076100746
+Rotation Angle: 37 degrees
+Center: x=190, y=374
+Rotation Angle: 37 degrees
+Width: 72, Height: 79
+Center in cm: x=29, y=52
+angle after cam update: 0.44895304751776766
+position predict: 228.69069712323315 mm, 545.2744464855224 mm, 0.44895304751776766 rad
+position predict: 147 et 401
+angle after predict: 0.4493041696513087
+angle after encoder update: 0.44937289619553283
+Rotation Angle: 34 degrees
+Center: x=191, y=374
+Rotation Angle: 34 degrees
+Width: 73, Height: 79
+Center in cm: x=29, y=52
+angle after cam update: 1.3235677895907418
+position predict: 217.5587758290162 mm, 545.6981846283213 mm, 1.3235677895907418 rad
+position predict: 140 et 401
+angle after predict: 1.3239575017266212
+angle after encoder update: 1.3237390223232297
+position predict: 218.1656313846647 mm, 548.0999970174952 mm, 1.3237390223232297 rad
+position predict: 140 et 403
+angle after predict: 1.3240217447365765
+angle after encoder update: 1.323838875196417
+Rotation Angle: 34 degrees
+Center: x=190, y=376
+Rotation Angle: 34 degrees
+Width: 73, Height: 68
+Center in cm: x=29, y=60
+angle after cam update: -0.1611036006766442
+position predict: 195.2656070859925 mm, 561.4821066060291 mm, -0.1611036006766442 rad
+position predict: 126 et 413
+angle after predict: -0.16088448485864104
+angle after encoder update: -0.16162218839273593
+Rotation Angle: 33 degrees
+Center: x=190, y=375
+Rotation Angle: 33 degrees
+Width: 73, Height: 68
+Center in cm: x=29, y=60
+angle after cam update: -2.6426413370836204
+position predict: 136.95996705821022 mm, 567.9578665074981 mm, -2.6426413370836204 rad
+position predict: 88 et 418
+angle after predict: -2.6426797635037076
+angle after encoder update: -2.6428375309868617
+Rotation Angle: 34 degrees
+Center: x=191, y=374
+Rotation Angle: 34 degrees
+Width: 73, Height: 67
+Center in cm: x=29, y=61
+angle after cam update: -19.150747574055295
+position predict: -322.8314777130877 mm, 630.9761457974162 mm, -19.150747574055295 rad
+position predict: -208 et 464
+angle after predict: -0.30125015630333607
+angle after encoder update: -0.3020914068318353
+Rotation Angle: 35 degrees
+Center: x=192, y=373
+Rotation Angle: 35 degrees
+Width: 73, Height: 68
+Center in cm: x=29, y=60
+angle after cam update: 27.604671112721103
+position predict: 553.2235784292823 mm, 580.8387351222564 mm, 27.604671112721103 rad
+position predict: 357 et 427
+angle after predict: 2.4719142346348058
+angle after encoder update: 2.4714875137761902
+Rotation Angle: 34 degrees
+Center: x=193, y=371
+Rotation Angle: 34 degrees
+Width: 72, Height: 68
+Center in cm: x=30, y=60
+angle after cam update: -0.9439988841222524
+position predict: 409.97712820916325 mm, 602.3613435295616 mm, -0.9439988841222524 rad
+position predict: 264 et 443
+angle after predict: -0.9440114565401965
+angle after encoder update: -0.9441249895185039
+position predict: 411.32306516758115 mm, 600.5004349031311 mm, -0.9441249895185039 rad
+position predict: 265 et 442
+angle after predict: -0.94413516306262
+angle after encoder update: -0.9435840691492458
+Rotation Angle: 33 degrees
+Center: x=194, y=370
+Rotation Angle: 33 degrees
+Width: 73, Height: 67
+Center in cm: x=30, y=60
+angle after cam update: -3.7622035529380935
+position predict: 366.7180547628677 mm, 599.1932287027465 mm, -3.7622035529380935 rad
+position predict: 236 et 441
+angle after predict: 2.5211778833202843
+angle after encoder update: 2.5210159296720724
+position predict: 364.81032767902013 mm, 600.5497382531462 mm, 2.5210159296720724 rad
+position predict: 235 et 442
+angle after predict: 2.5211777734427265
+angle after encoder update: 2.521403312494315
+Rotation Angle: 34 degrees
+Center: x=196, y=367
+Rotation Angle: 34 degrees
+Width: 73, Height: 68
+Center in cm: x=30, y=59
+angle after cam update: 2.493969389681297
+position predict: 350.1860232723467 mm, 609.5085124736894 mm, 2.493969389681297 rad
+position predict: 226 et 448
+angle after predict: 2.4941944618721106
+angle after encoder update: 2.494057822695064
+position predict: 348.3466981453874 mm, 610.9001544751202 mm, 2.494057822695064 rad
+position predict: 225 et 449
+angle after predict: 2.4942316937819573
+angle after encoder update: 2.494114241629562
+Rotation Angle: 34 degrees
+Center: x=199, y=364
+Rotation Angle: 34 degrees
+Width: 73, Height: 68
+Center in cm: x=30, y=58
+angle after cam update: 4.681776468912155
+position predict: 338.38950063217885 mm, 612.6005378022154 mm, 4.681776468912155 rad
+position predict: 218 et 451
+angle after predict: -1.601264102548046
+angle after encoder update: -1.601327631636954
+position predict: 338.3172610011447 mm, 610.3246339827182 mm, -1.601327631636954 rad
+position predict: 218 et 449
+angle after predict: -1.6012130802397144
+angle after encoder update: -1.6007014300371605
+Rotation Angle: 34 degrees
+Center: x=200, y=362
+Rotation Angle: 34 degrees
+Width: 73, Height: 67
+Center in cm: x=30, y=59
+angle after cam update: -1.1175197229079161
+position predict: 340.02839300240424 mm, 614.3587452862678 mm, -1.1175197229079161 rad
+position predict: 219 et 452
+angle after predict: -1.1172135068595734
+angle after encoder update: -1.11685355955823
+position predict: 341.07861480851113 mm, 612.2012855676963 mm, -1.11685355955823 rad
+position predict: 220 et 450
+angle after predict: -1.1164010631535533
+angle after encoder update: -1.1161944870725418
+Rotation Angle: 35 degrees
+Center: x=201, y=360
+Rotation Angle: 35 degrees
+Width: 73, Height: 67
+Center in cm: x=31, y=59
+angle after cam update: -1.8808208401502913
+position predict: 345.97292395932476 mm, 624.0747395123641 mm, -1.8808208401502913 rad
+position predict: 223 et 459
+angle after predict: -1.8802798071454354
+angle after encoder update: -1.879809352009371
+position predict: 345.2814890294363 mm, 621.9177119556618 mm, -1.879809352009371 rad
+position predict: 223 et 457
+angle after predict: -1.8791592970643152
+angle after encoder update: -1.8788084057303838
+Rotation Angle: 34 degrees
+Center: x=204, y=357
+Rotation Angle: 34 degrees
+Width: 73, Height: 67
+Center in cm: x=31, y=58
+angle after cam update: -3.257948580547386
+position predict: 355.41788598258205 mm, 651.667363301759 mm, -3.257948580547386 rad
+position predict: 229 et 479
+angle after predict: 3.0259662932755163
+angle after encoder update: 3.0257926271813913
+position predict: 353.04283531814485 mm, 651.957969610677 mm, 3.0257926271813913 rad
+position predict: 228 et 480
+angle after predict: 3.02644797089563
+angle after encoder update: 3.0253925390740846
+Rotation Angle: 37 degrees
+Center: x=209, y=350
+Rotation Angle: 37 degrees
+Width: 73, Height: 78
+Center in cm: x=32, y=49
+angle after cam update: 7.5921161827765005
+position predict: 664.6737909562355 mm, 1092.01738467888 mm, 7.5921161827765005 rad
+position predict: 429 et 804
+angle after predict: 1.3092466162797933
+angle after encoder update: 1.3095282407754338
+position predict: 665.4168592669928 mm, 1094.4577178508744 mm, 1.3095282407754338 rad
+position predict: 429 et 805
+angle after predict: 1.3097790626625043
+angle after encoder update: 1.3101182534360512
+Rotation Angle: 33 degrees
+Center: x=207, y=353
+Rotation Angle: 33 degrees
+Width: 73, Height: 67
+Center in cm: x=32, y=57
+angle after cam update: -5.19267270519428
+position predict: 190.37382718574747 mm, 352.26230031291504 mm, -5.19267270519428 rad
+position predict: 122 et 259
+angle after predict: 1.0908044697052333
+angle after encoder update: 1.0911598600990602
+Rotation Angle: 34 degrees
+Center: x=207, y=352
+Rotation Angle: 34 degrees
+Width: 73, Height: 67
+Center in cm: x=32, y=57
+angle after cam update: 1.9504768969707422
+position predict: 267.83044219033604 mm, 479.16887699038824 mm, 1.9504768969707422 rad
+position predict: 173 et 352
+angle after predict: 1.950861753397385
+angle after encoder update: 1.9506414338383755
+Rotation Angle: 33 degrees
+Center: x=211, y=347
+Rotation Angle: 33 degrees
+Width: 72, Height: 77
+Center in cm: x=33, y=49
+angle after cam update: 0.47639498960055104
+position predict: 280.1789390147395 mm, 491.31808530384524 mm, 0.47639498960055104 rad
+position predict: 181 et 361
+angle after predict: 0.4765516466115449
+angle after encoder update: 0.47649349733942725
+Rotation Angle: 36 degrees
+Center: x=213, y=344
+Rotation Angle: 36 degrees
+Width: 73, Height: 77
+Center in cm: x=32, y=49
+angle after cam update: -0.45286943216847053
+position predict: 289.1178605970111 mm, 493.5660648749696 mm, -0.45286943216847053 rad
+position predict: 186 et 363
+angle after predict: -0.4527533005333191
+angle after encoder update: -0.45283548875443785
+Rotation Angle: 36 degrees
+Center: x=214, y=343
+Rotation Angle: 36 degrees
+Width: 73, Height: 77
+Center in cm: x=33, y=49
+angle after cam update: -0.9723027127063582
+position predict: 295.63532684261634 mm, 492.69037437538054 mm, -0.9723027127063582 rad
+position predict: 190 et 362
+angle after predict: -0.9722112052634762
+angle after encoder update: -0.9724518037767895
+Rotation Angle: 36 degrees
+Center: x=211, y=346
+Rotation Angle: 36 degrees
+Width: 73, Height: 68
+Center in cm: x=32, y=55
+angle after cam update: 0.46493006097638423
+position predict: 299.95345390101653 mm, 504.4465013699827 mm, 0.46493006097638423 rad
+position predict: 193 et 371
+angle after predict: 0.46490348701915707
+angle after encoder update: 0.46515092523432144
+Rotation Angle: 34 degrees
+Center: x=212, y=346
+Rotation Angle: 34 degrees
+Width: 73, Height: 67
+Center in cm: x=32, y=56
+angle after cam update: 1.779571680146963
+position predict: 303.24094877389297 mm, 518.0434278902071 mm, 1.779571680146963 rad
+position predict: 195 et 381
+angle after predict: 1.7796541129303272
+angle after encoder update: 1.7803200594367972
+Rotation Angle: 34 degrees
+Center: x=213, y=344
+Rotation Angle: 34 degrees
+Width: 73, Height: 67
+Center in cm: x=32, y=56
+angle after cam update: 2.1054337843285214
+position predict: 302.94975797643366 mm, 525.9820694256106 mm, 2.1054337843285214 rad
+position predict: 195 et 387
+angle after predict: 2.105801335251667
+angle after encoder update: 2.1058848736409885
+Rotation Angle: 37 degrees
+Center: x=217, y=339
+Rotation Angle: 37 degrees
+Width: 72, Height: 77
+Center in cm: x=34, y=48
+angle after cam update: 0.751019890306698
+position predict: 308.6132368954155 mm, 521.1316101198861 mm, 0.751019890306698 rad
+position predict: 199 et 383
+angle after predict: 0.7514128136598428
+angle after encoder update: 0.7511939675498833
+Rotation Angle: 34 degrees
+Center: x=215, y=342
+Rotation Angle: 34 degrees
+Width: 73, Height: 67
+Center in cm: x=33, y=56
+angle after cam update: 0.7249184079380562
+position predict: 311.0381755518741 mm, 525.6759060965802 mm, 0.7249184079380562 rad
+position predict: 200 et 387
+angle after predict: 0.7252344002370816
+angle after encoder update: 0.7259033269345728
+position predict: 312.7839983652376 mm, 527.2310880854599 mm, 0.7259033269345728 rad
+position predict: 202 et 388
+angle after predict: 0.7264589853967309
+angle after encoder update: 0.7261177977273705
+Rotation Angle: 35 degrees
+Center: x=217, y=339
+Rotation Angle: 35 degrees
+Width: 73, Height: 67
+Center in cm: x=33, y=55
+angle after cam update: 0.7430507857497074
+position predict: 315.22096347699755 mm, 530.205467788104 mm, 0.7430507857497074 rad
+position predict: 203 et 390
+angle after predict: 0.7435201358660706
+angle after encoder update: 0.743855163530487
+Rotation Angle: 35 degrees
+Center: x=220, y=335
+Rotation Angle: 35 degrees
+Width: 73, Height: 76
+Center in cm: x=34, y=48
+angle after cam update: -0.8367334925270947
+position predict: 328.6964270951664 mm, 520.1764468532928 mm, -0.8367334925270947 rad
+position predict: 212 et 383
+angle after predict: -0.8361925789376539
+angle after encoder update: -0.8362248648609407
+Rotation Angle: 34 degrees
+Center: x=219, y=337
+Rotation Angle: 34 degrees
+Width: 73, Height: 68
+Center in cm: x=33, y=54
+angle after cam update: -0.3320037024234671
+position predict: 328.01809492585113 mm, 522.493012354449 mm, -0.3320037024234671 rad
+position predict: 211 et 384
+angle after predict: -0.33147676409915583
+angle after encoder update: -0.33173903571375957
+position predict: 330.15874388483553 mm, 521.7596780938372 mm, -0.33173903571375957 rad
+position predict: 213 et 384
+angle after predict: -0.33132947316199557
+angle after encoder update: -0.33187592530379817
+position predict: 332.2542510745551 mm, 521.0346537523957 mm, -0.33187592530379817 rad
+position predict: 214 et 383
+angle after predict: -0.33163985309005506
+angle after encoder update: -0.3314430329466281
+position predict: 334.46356469811536 mm, 520.2807389070412 mm, -0.3314430329466281 rad
+position predict: 216 et 383
+angle after predict: -0.3311592463883839
+angle after encoder update: -0.33106622482853
+position predict: 336.58234551249046 mm, 519.5447318412068 mm, -0.33106622482853 rad
+position predict: 217 et 382
+angle after predict: -0.33073513148464606
+angle after encoder update: -0.331326070648428
+Rotation Angle: 34 degrees
+Center: x=223, y=332
+Rotation Angle: 34 degrees
+Width: 73, Height: 66
+Center in cm: x=34, y=55
+angle after cam update: 1.0420349921682304
+position predict: 339.5898195438624 mm, 535.4240274797872 mm, 1.0420349921682304 rad
+position predict: 219 et 394
+angle after predict: 1.0421959478853218
+angle after encoder update: 1.041896302662212
+position predict: 340.7188502128903 mm, 537.3863741564097 mm, 1.041896302662212 rad
+position predict: 220 et 395
+angle after predict: 1.0419219671335664
+angle after encoder update: 1.0413311891333565
+position predict: 341.8514743540199 mm, 539.3252295434427 mm, 1.0413311891333565 rad
+position predict: 220 et 397
+angle after predict: 1.0411490219550057
+angle after encoder update: 1.040648421263152
+position predict: 342.99647419699244 mm, 541.2807219465628 mm, 1.040648421263152 rad
+position predict: 221 et 398
+angle after predict: 1.0402983743949266
+angle after encoder update: 1.040225046229783
+Rotation Angle: 34 degrees
+Center: x=226, y=328
+Rotation Angle: 34 degrees
+Width: 73, Height: 66
+Center in cm: x=34, y=54
+angle after cam update: 1.0190707428507113
+position predict: 344.4439570789511 mm, 542.3990630233174 mm, 1.0190707428507113 rad
+position predict: 222 et 399
+angle after predict: 1.0186968231792246
+angle after encoder update: 1.0186246988907925
+position predict: 345.6355403005481 mm, 544.3243447318613 mm, 1.0186246988907925 rad
+position predict: 223 et 400
+angle after predict: 1.01822017567161
+angle after encoder update: 1.0187747357918788
+position predict: 346.82684132828473 mm, 546.2710325595655 mm, 1.0187747357918788 rad
+position predict: 224 et 402
+angle after predict: 1.018556998660661
+angle after encoder update: 1.01837225783661
+position predict: 348.04681029033054 mm, 548.243622400444 mm, 1.01837225783661 rad
+position predict: 224 et 403
+angle after predict: 1.0180963965615293
+angle after encoder update: 1.0182665447314687
+Rotation Angle: 34 degrees
+Center: x=232, y=319
+Rotation Angle: 34 degrees
+Width: 73, Height: 75
+Center in cm: x=35, y=46
+angle after cam update: -0.8062642700320166
+position predict: 372.1971055447585 mm, 517.6405786546104 mm, -0.8062642700320166 rad
+position predict: 240 et 381
